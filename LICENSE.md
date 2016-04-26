@@ -1,1 +1,29 @@
-CC-BY-NC-SA
+License
+
+- CC-BY-NC-SA 4.0
+
+http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+- Bundled components come with their own licenses and distibution requirements. Check their respective websites for details.
+
+
+---------------------------------------
+
+Bundled Components
+
+- dtobi, Sarbian - KM_Gimbal.dll plugin v3.0.5: [github](http://github.com/sarbian/km_Gimbal)
+
+
+
+
+---------------------------------------
+
+Recommended Mods
+
+- Ferram Aerospace Research
+
+- Kerbal Joint Reinforcement 
+
+- Rasterprop Monitors
+
+- Editor Extensions
