@@ -9,9 +9,6 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ---------------------------------------
 
-Bundled Components
-
-- dtobi, Sarbian - KM_Gimbal.dll plugin v3.0.5: [github](http://github.com/sarbian/km_Gimbal)
 
 
 
