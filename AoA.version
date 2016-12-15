@@ -23,8 +23,8 @@
     "NAME": "AoA-Technologies", 
     "URL": "https://raw.githubusercontent.com/WolfairCorp/AoA-Technologies/Update/AoA.version", 
     "VERSION": {
-        "BUILD": 0, 
-        "MAJOR": 0, 
+        "BUILD": 1, 
+        "MAJOR": 3, 
         "MINOR": 6, 
         "PATCH": 1
     }
