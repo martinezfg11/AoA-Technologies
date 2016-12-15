@@ -8,20 +8,20 @@
     "KSP_VERSION": {
         "MAJOR": 1, 
         "MINOR": 2, 
-        "PATCH": 0
+        "PATCH": 2
     }, 
     "KSP_VERSION_MAX": {
         "MAJOR": 1, 
         "MINOR": 2, 
-        "PATCH": 0
+        "PATCH": 2
     }, 
     "KSP_VERSION_MIN": {
         "MAJOR": 1, 
         "MINOR": 2, 
         "PATCH": 0
     }, 
-    "NAME": "Kerbal Attachment System", 
-    "URL": "https://raw.githubusercontent.com/ihsoft/KAS/master/kas.version", 
+    "NAME": "AoA-Technologies", 
+    "URL": "https://raw.githubusercontent.com/WolfairCorp/AoA-Technologies/Update/AoA.version", 
     "VERSION": {
         "BUILD": 0, 
         "MAJOR": 0, 
