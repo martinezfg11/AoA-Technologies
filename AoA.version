@@ -1,9 +1,9 @@
 {
     "CHANGE_LOG_URL": "https://raw.githubusercontent.com/ihsoft/KAS/master/changelog.md", 
-    "DOWNLOAD": "http://forum.kerbalspaceprogram.com/threads/92514", 
+    "DOWNLOAD": "http://forum.kerbalspaceprogram.com/index.php?/topic/153428-122-aoa-technologies-maintenance-thread/", 
     "GITHUB": {
-        "REPOSITORY": "KAS", 
-        "USERNAME": "ihsoft"
+        "REPOSITORY": "AoA-Technologies", 
+        "USERNAME": "WolfairCorp"
     }, 
     "KSP_VERSION": {
         "MAJOR": 1, 
@@ -13,7 +13,7 @@
     "KSP_VERSION_MAX": {
         "MAJOR": 1, 
         "MINOR": 2, 
-        "PATCH": 99
+        "PATCH": 0
     }, 
     "KSP_VERSION_MIN": {
         "MAJOR": 1, 
