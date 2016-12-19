@@ -1,31 +1,27 @@
 {
-    "CHANGE_LOG_URL": "https://raw.githubusercontent.com/ihsoft/KAS/master/changelog.md", 
-    "DOWNLOAD": "https://github.com/WolfairCorp/AoA-Technologies/releases/tag/1.3.6", 
-    "GITHUB": {
-        "REPOSITORY": "AoA-Technologies", 
-        "USERNAME": "WolfairCorp"
-    }, 
-    "KSP_VERSION": {
-        "MAJOR": 1, 
-        "MINOR": 2, 
-        "PATCH": 2
-    }, 
-    "KSP_VERSION_MAX": {
-        "MAJOR": 1, 
-        "MINOR": 2, 
-        "PATCH": 2
-    }, 
-    "KSP_VERSION_MIN": {
-        "MAJOR": 1, 
-        "MINOR": 2, 
-        "PATCH": 0
-    }, 
-    "NAME": "AoA-Technologies", 
-    "URL": "https://raw.githubusercontent.com/WolfairCorp/AoA-Technologies/Update/AoA.version", 
-    "VERSION": {
-        "BUILD": 1, 
-        "MAJOR": 3, 
-        "MINOR": 6, 
-        "PATCH": 0
-    }
+    "NAME": "AoA Tech",
+  "URL": "https://raw.githubusercontent.com/WolfairCorp/AoA-Technologies/Update/AoA.version",
+  "DOWNLOAD": "https://github.com/WolfairCorp/AoA-Technologies/releases",
+  "CHANGE_LOG_URL": "https://raw.githubusercontent.com/WolfairCorp/AoA-Technologies/Update/changlog.md",
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 3,
+    "PATCH": 7,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 2,
+    "PATCH": 2
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 2,
+    "PATCH": 0
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 2,
+    "PATCH": 2
+  }
 }
