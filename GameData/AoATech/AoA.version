@@ -15,7 +15,7 @@
         "PATCH": 0
     }, 
     "NAME": "AoA Tech", 
-    "URL": "https://raw.githubusercontent.com/WolfairCorp/AoA-Technologies/releases", 
+    "URL": "https://github.com/WolfairCorp/AoA-Technologies/releases", 
     "VERSION": {
         "BUILD": 1, 
         "MAJOR": 3, 
